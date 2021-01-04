@@ -34,4 +34,6 @@ Spring Boot (with Tomcat) | Spring Boot (with Jetty) | Spring Boot (with Underto
 
 1. https://micronaut.io/blog/2020-04-28-performance-comparison-spring-boot-micronaut.html
 2. https://reinkrul.nl/blog/springboot/micronaut/2019/05/30/migrating-springboot-to-micronaut-is-it-worth-it.html
+3. https://www.thoughtworks.com/radar/languages-and-frameworks/micronaut
+
 
